@@ -1,0 +1,32 @@
+{
+  "name": "withscripts",
+  "version": "1.0.0",
+  "description": "WitScripts HOC loads JavaScript libraries into wrapped component. It can loaded any number of libraries and identifies each library by its ID passed in config array of objects to HOC. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhardwajamit0890/withScripts.git"
+  },
+  "keywords": [
+    "React",
+    "HOC",
+    "LoadScript",
+    "WithScript",
+    "Load",
+    "JavaScript"
+  ],
+  "author": "Amit Bhardwaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhardwajamit0890/withScripts/issues"
+  },
+  "homepage": "https://github.com/bhardwajamit0890/withScripts#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.18.3",
+    "react": "^16.12.0"
+  }
+}
